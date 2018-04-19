@@ -1,4 +1,4 @@
-
+@RestContr
 public class BaseApp {
 
 	public static void main(String[] args) {
